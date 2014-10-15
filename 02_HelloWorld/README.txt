@@ -19,3 +19,9 @@ targetディレクトリが自動で作られる
 >    │       └── hw.scala
 >    └── test
 >        └── scala
+
+## 03
+ビルド定義とsbtバージョンの指定
+・ベースディレクトリにbuild.sbtを設置する
+・build.propertiesにsbtバージョンの指定もできる
+
