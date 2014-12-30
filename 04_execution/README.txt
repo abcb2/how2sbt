@@ -24,3 +24,4 @@ package .. src/main/resources内のファイルとsrc/main/scalaとsrc/main/java
 help    .. help <command>でコマンドの詳細ヘルプ sbt "help project"などとする。。
 reload  .. ビルド定義(build.sbt, project/*.scala, project/*.sbt)を再読み込みする
 !       .. historyコマンドのヘルプ
+
