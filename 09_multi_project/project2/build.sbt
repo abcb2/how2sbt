@@ -1,4 +1,4 @@
-name := "multi_project1"
+name := "multi_project2"
 
 version := "1.0"
 
